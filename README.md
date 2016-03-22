@@ -1,5 +1,5 @@
 # picofile_com_Web_service
-Web service for picofile.com , you can get the information of a file
+Web service for picofile.com , you can get the information of the file like :
 - File ID
 - Server ID
 - File Name
